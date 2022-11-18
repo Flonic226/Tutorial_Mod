@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:black_concrete"
+    },
+    "X": {
+      "item": "minecraft:white_concrete"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:eight_ball"
+  }
+}
